@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    }
+]

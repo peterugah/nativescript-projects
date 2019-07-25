@@ -1,0 +1,58 @@
+@import '../sass/variables';
+#uploadContainer{
+    background-color: lighten($black , 1);
+    height: 100%;
+}
+.cameraIcon, .cameraText{
+    vertical-align:center;
+    color:white;
+    font-size: 80%;
+    horizontal-align:center;
+}
+@keyframes change{
+    0% {color: grey}
+    100%{color:orange}
+}
+#img{
+    margin:20 0;
+    width: 90%;
+}
+#description{
+    width: 80%;
+    TextField{
+        color:white;
+        border-width: 2;
+        border-color: white;
+        padding: 20;
+        border-radius: 4;
+        placeholder-color:white;
+    }
+}
+.uploadBtn{
+    margin:20 0;
+}
+.progress{
+    background-color:white;
+    width:100%;
+    color:$blue;
+    animation-name: colorChange;
+    animation-duration: 100s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    animation-timing-function:cubic-bezier(0.165, 0.84, 0.44, 1)
+}
+
+@keyframes colorChange{
+    0% {background-color : white};
+    50% {background-color: yellow};
+    75% {background-color :orange};
+    100%{background-color: red};
+}
+
+.indicator{
+    margin:10 0;
+    color:white;
+    background: rgba(black , .1);
+    padding:10;
+    border-radius: 50;
+}

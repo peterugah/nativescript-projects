@@ -1,0 +1,30 @@
+{
+	"nativescript-background-http": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-background-http/platforms/android/include.gradle": "4fc0f9ce06df5336df8da8c7b7a2ce2c43356a93",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-background-http/platforms/android/nativescript_background_http.aar": "e0648afae01c1d8a82bbe927b6017710e103bbf9"
+	},
+	"nativescript-imagecropper": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-imagecropper/platforms/android/AndroidManifest.xml": "de9e14f14dae0473e1f887952a39df5e32951275",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-imagecropper/platforms/android/include.gradle": "c977612b446442b5b34b89ac8c595290d6beda65",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-imagecropper/platforms/android/nativescript_imagecropper.aar": "98b6ebe514846a34d19ac6bb54be4c2d744fcac1"
+	},
+	"nativescript-imagepicker": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-imagepicker/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-imagepicker/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02"
+	},
+	"nativescript-ui-listview": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-ui-listview/platforms/android/include.gradle": "455b6fc1ccdd84405dfdbaf9171410e91b54b242",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-ui-listview/platforms/android/typings/listview.d.ts": "84372a5a7dc8a2c26c5dcb648b6daf3f78a89c6c",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-ui-listview/platforms/android/TNSListView-release.aar": "1a4c7f4fde2873a19470bd2caa93088184a2f3cc"
+	},
+	"nativescript-webview-interface": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-webview-interface/platforms/android/WebViewInterface.jar": "76c82949e18be2e64a13fcf1587898f426846790"
+	},
+	"nativescript-ui-core": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"/home/peter/Desktop/native-script/demo-app/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	},
+	"tns-core-modules-widgets": {
+		"/home/peter/Desktop/native-script/demo-app/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
+	}
+}

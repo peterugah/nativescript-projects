@@ -1,0 +1,18 @@
+{
+    "axios": true,
+    "nativescript-background-http": true,
+    "nativescript-imagecropper": true,
+    "nativescript-imagepicker": true,
+    "nativescript-theme-core": true,
+    "nativescript-ui-listview": true,
+    "nativescript-webview-interface": true,
+    "tns-core-modules": true,
+    "follow-redirects": true,
+    "is-buffer": true,
+    "nativescript-permissions": true,
+    "nativescript-ui-core": true,
+    "tns-core-modules-widgets": true,
+    "tslib": true,
+    "debug": true,
+    "ms": true
+}

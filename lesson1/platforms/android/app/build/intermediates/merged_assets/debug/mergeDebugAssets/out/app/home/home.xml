@@ -1,0 +1,14 @@
+<Page loaded="loaded" xmlns:sd="nativescript-ui-sidedrawer">
+ <sd:RadSideDrawer.drawerContent>
+            
+        </sd:RadSideDrawer.drawerContent>
+            <Label text="hello" />
+        <!-- The main content -->
+        <sd:RadSideDrawer.mainContent>
+            <StackLayout>
+                <Button text="Toggle Drawer" class="btn btn-primary" tap="toggleDrawer" />
+            </StackLayout>
+        </sd:RadSideDrawer.mainContent>
+
+    </sd:RadSideDrawer>
+</Page>

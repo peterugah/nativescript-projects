@@ -1,0 +1,32 @@
+{
+	"time": "Fri Nov 30 2018 01:37:15 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "214c5a6354e704e5dbdbf82515d19c52cca4fa77812409f3a77f77130eb20f91",
+	"changesRequireBuildTime": "Fri Nov 30 2018 00:12:17 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/home/peter/Desktop/native-script/sidebar/app/home/home.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/sidebar/app/home/home.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/sidebar/app/root/root.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/sidebar/app/root/root.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/sidebar/app/app-root.xml": "8087669f51290102e676ec9fb79f61692afb3f61",
+		"/home/peter/Desktop/native-script/sidebar/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/peter/Desktop/native-script/sidebar/app/app.js": "33627dcb436787918511d8899c302758822e7b7a",
+		"/home/peter/Desktop/native-script/sidebar/app/forms/form-modules.js": "4173cf92f6f2abacce0e0ab500d59e7f21e75dfa",
+		"/home/peter/Desktop/native-script/sidebar/app/forms/forms.css": "e90c74d68951b6ad7124dad4631dc0a580702041",
+		"/home/peter/Desktop/native-script/sidebar/app/forms/forms.js": "3dc393caad80a6f46274587a656c9ebc324fe0c6",
+		"/home/peter/Desktop/native-script/sidebar/app/forms/forms.scss": "a127be347ec0fe2821149d4e3a11f5bc85dd7f87",
+		"/home/peter/Desktop/native-script/sidebar/app/forms/forms.xml": "e093f26d4ece12d14d9e5362201d7b7282785f42",
+		"/home/peter/Desktop/native-script/sidebar/app/home/home.js": "c7903b66554b6570b907dc6be3833bc66ad183aa",
+		"/home/peter/Desktop/native-script/sidebar/app/home/home.xml": "49cb4dbabf9d25f0a9d0fde81049c30ae961216d",
+		"/home/peter/Desktop/native-script/sidebar/app/home2/home2.js": "dd4d02b818ede71a9e4f5a52adcdbf68c1404cc2",
+		"/home/peter/Desktop/native-script/sidebar/app/home2/home2.xml": "ea11863fa0a499e069eec7010023e7898adc6947",
+		"/home/peter/Desktop/native-script/sidebar/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/peter/Desktop/native-script/sidebar/app/pages/page-one.xml": "aea1087b679f0923e1fc3d3b7fb7d616a76dd452",
+		"/home/peter/Desktop/native-script/sidebar/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/home/peter/Desktop/native-script/sidebar/app/root/root.js": "51505961ce8846809976aaf9782c3fc61ba89490",
+		"/home/peter/Desktop/native-script/sidebar/app/root/root.xml": "b36dbea8269ae839c5bdc90931a74e09449da68b"
+	}
+}

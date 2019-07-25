@@ -1,0 +1,4 @@
+#Fri Dec 07 03:41:32 IST 2018
+base.0=/home/peter/Desktop/native-script/shop-app-demo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

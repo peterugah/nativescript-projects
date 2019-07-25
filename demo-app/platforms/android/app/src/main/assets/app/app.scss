@@ -1,0 +1,73 @@
+@import 'sass/color';
+
+* {
+    font-family: $font-family;
+    font-size: $normalFont;
+    color: $priColor;
+    font-weight: 200;
+}
+
+.content {
+    padding: 10;
+}
+
+.bg1 {
+    background: $gradOne;
+}
+
+.bg2 {
+    background: $gradTwo;
+}
+
+.bg3 {
+    background: $gradThree;
+}
+
+.normal {
+    font-size: $normalFont;
+}
+
+.medium {
+    font-size: $medFont;
+}
+
+.large {
+    font-size: $largeFont;
+}
+
+.white {
+    color: white;
+}
+
+.icon {
+    font-family: $icon-font;
+}
+
+.tab {
+    android-selected-tab-highlight-color: darken($btn, 2);
+    text-wrap: true;
+    selected-tab-text-color: $priColor;
+}
+
+.indicator {
+    width:50;
+    height:50;
+    color : white;
+    // background: red;
+}
+// @keyframes change {
+//     from {color:Red}
+//     to{color:blue}
+// }
+
+.has-text-primary{
+    color:$priColor;
+}
+Button{
+    font-weight: 200;
+    text-transform: lowercase;
+    &.is-primary{
+        color:white;
+        background: $gradTwo;
+    }
+}

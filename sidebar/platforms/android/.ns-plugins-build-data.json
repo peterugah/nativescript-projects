@@ -1,0 +1,22 @@
+{
+	"nativescript-ui-dataform": {
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-dataform/platforms/android/typings/dataform.d.ts": "4e9ec450d20ae85cedd03a2122f492b136e4e22f",
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-dataform/platforms/android/TNSDataForm-release.aar": "c65288a91d642cc7b48bb6b0b818e17423116407"
+	},
+	"nativescript-ui-sidedrawer": {
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "014feca9bb77a2b9bb64edb4fdc8a0fbfab4abed",
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "91ef64e6d1864556d27ded671283ee4a05b7c4eb"
+	},
+	"nativescript-ui-autocomplete": {
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-autocomplete/platforms/android/include.gradle": "8d431285d22b3072ea506656c2c2d6d7b6d08f7a",
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-autocomplete/platforms/android/typings/autocomplete.d.ts": "93d69d2fe72e452c3a0f90d95595fb50f85384cf",
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-autocomplete/platforms/android/TNSAutoComplete-release.aar": "fa53cfeba77e3f975897270a455289758fbe8ccf"
+	},
+	"nativescript-ui-core": {
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	},
+	"tns-core-modules-widgets": {
+		"/home/peter/Desktop/native-script/sidebar/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
+	}
+}

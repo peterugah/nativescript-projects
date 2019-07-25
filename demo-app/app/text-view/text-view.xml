@@ -1,0 +1,35 @@
+<Page actionBarHidden="true" loaded="pageLoaded">
+    <StackLayout>
+        <Label text="this is the home page" swipe="swipe" />
+       <Image src="{{ imgSrc }}" stretch="aspectFill" width="300" height="300" />
+    </StackLayout>
+    <!-- <Repeater items="{{users}}" loaded="getUsers">
+        <Repeater.itemLayout>
+            <StackLayout orientation="horizontal" />
+        </Repeater.itemLayout>
+        <Repeater.itemTemplate>
+            <StackLayout>
+                <Label>
+                    <FormattedString>
+                        <Span text="{{$value}}" color=""></Span>
+                        <Span text=" : nice one" />
+                    </FormattedString>
+                </Label>
+                <Label text="why now: " />
+                <HtmlView html="<h1>hello world!</h1>" />
+            </StackLayout>
+        </Repeater.itemTemplate>
+    </Repeater> -->
+    <!-- <Repeater items="{{users}}" loaded="getUsers">
+            <Repeater.itemLayout>
+                <StackLayout></StackLayout>
+            </Repeater.itemLayout>
+            <Repeater.itemTemplate>
+                <Label text="{{$value}}" />
+            </Repeater.itemTemplate>
+        </Repeater> -->
+    <!-- <StackLayout>
+        <TextView text="hello" loaded="textViewLoaded" focus="focusEvent" propertyChange="propertyChange" editable="false" />
+         <Label loaded="labelLoaded" />
+    </StackLayout> -->
+</Page>

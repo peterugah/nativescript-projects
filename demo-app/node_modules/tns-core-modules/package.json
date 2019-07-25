@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      "tns-core-modules@~5.0.2",
+      "/home/peter/Desktop/native-script/demo-app"
+    ]
+  ],
+  "_from": "tns-core-modules@>=5.0.2 <5.1.0",
+  "_hasShrinkwrap": false,
+  "_id": "tns-core-modules@5.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "",
+  "_location": "/tns-core-modules",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/tns-core-modules_5.0.5_1543243194248_0.8077003369941034"
+  },
+  "_npmUser": {
+    "email": "nativescript@telerik.com",
+    "name": "tns-bot"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "tns-core-modules",
+    "raw": "tns-core-modules@~5.0.2",
+    "rawSpec": "~5.0.2",
+    "scope": null,
+    "spec": ">=5.0.2 <5.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-5.0.5.tgz",
+  "_shasum": "0137a1ed394e2e3cb69dae419ecedc0912d88abe",
+  "_shrinkwrap": null,
+  "_spec": "tns-core-modules@~5.0.2",
+  "_where": "/home/peter/Desktop/native-script/demo-app",
+  "dependencies": {
+    "tns-core-modules-widgets": "5.0.1",
+    "tslib": "^1.9.3"
+  },
+  "description": "Telerik NativeScript Core Modules",
+  "devDependencies": {
+    "@types/node": "~7.0.5",
+    "tns-platform-declarations": "*"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 419,
+    "integrity": "sha512-AUwrn6TIhrTc88IO9X7SU4otT/dU84CPfHtAZHW+D05/alkkupfqrbHtQXjDH+TBkwiKbq48dBmI6OpM9Pablg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb/AW6CRA9TVsSAnZWagAAySoP/3bweT3AGZ+L+4xcFZYf\n58bLaTYe5wS9U9etThp+qYvIFHJdpohKFpgpVUS0CLVHt0fqsLijc58LhOX+\nofpXxx7WHerhcM2cOtBWjc4SmeiEHxHPRP2MN1Pb0kWAq6zudpiGy06ZuWpU\ncRLGEwWq2DOAD7P6xFBROCQGgFSzEjbRjV4XVoWdrkzEDAmEoXBWq4alYFQh\n8irrSDqNUwKORwduD26LJRPzoYI6YYH90UcEDG7RJs7URh1iIMTIB3owhlzG\nmHsq8fy9Usovq3AWh4vEe+p46L1MrwAPOsXeWjm2lJzFEfXhE1yiczdXxYnW\n+blBwpD3L3YoXCmmSm9qA14HNB9/lljZ+QQZk6zIR8wNgXsSVheo6GgLbnOU\nzdFR1MsT9Ho3vvrbAMe7qtwXMleWoiwKBfoAX+eoHgq8jRHWSqXycW6vP1NJ\nd80xmjEIh3G6ku5up7beRic7TslYel3d0Zq1FuWzJPuiboZi950zelmqIAuU\nL5RR88vQSA8gvJbiFWBXC58vaQSoVlhbYWFtsNMBh2mmhWV6SwopdYO6Rcpu\nlYPYhIM8hebZjiMh//yypjAxznH6UiQaxoiyLA5awaCfdkl7e7mV3i0zj9LR\nyjDpcTfRiN5y7W/imDYLsRfr59suUf6dnCq5PCtWPtVugrvHuBrIGMuqZCJA\nvM30\r\n=BEOK\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "0137a1ed394e2e3cb69dae419ecedc0912d88abe",
+    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-5.0.5.tgz",
+    "unpackedSize": 2281652
+  },
+  "homepage": "https://www.nativescript.org",
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "hhristov",
+      "email": "hristo.hristov@outlook.com"
+    },
+    {
+      "name": "panayot.cankov",
+      "email": "panayot.cankov@telerik.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    }
+  ],
+  "name": "tns-core-modules",
+  "nativescript": {
+    "platforms": {
+      "android": "4.0.0",
+      "ios": "4.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NativeScript/NativeScript/commit/10faa0eaccb0d70b53419242e3506dc09e274e33"
+  },
+  "scripts": {
+    "version": "conventional-changelog -p angular -i ../CHANGELOG.md -s && git add ../CHANGELOG.md"
+  },
+  "snapshot": {
+    "android": {
+      "tns-java-classes": {
+        "modules": [
+          "ui/frame/activity",
+          "ui/frame/fragment"
+        ]
+      }
+    }
+  },
+  "typings": "tns-core-modules.d.ts",
+  "version": "5.0.5"
+}

@@ -1,0 +1,33 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" actionBarHidden="true" id="loginBg" 
+    xmlns:svg="@exeleon/nativescript-svg">
+    <ScrollView>
+        <StackLayout class="inputPadding">
+            <Repeater items="{{ errors }}">
+                <Repeater.itemsLayout>
+                    <StackLayout />
+                </Repeater.itemsLayout>
+                <Repeater.itemTemplate>
+                    <Label textWrap="true" class="errorLabel">
+                        <FormattedString>
+                            <Span text="- " class="error" />
+                            <Span text="{{$value}}" class="error" />
+                        </FormattedString>
+                    </Label>
+                </Repeater.itemTemplate>
+            </Repeater>
+
+            <svg:SVGImage src="~/image/camera.svg" id="logo" />
+            <StackLayout>
+                <TextField hint="email" text="{{email}}" keyboardType="email" class="inputLabel" focus="clearError" />
+                <TextField hint="password" text="{{password}}" secure="true" class="inputLabel" focus="clearError" />
+                <Button text="Login" tap="login" id="logInBtn" visibility="{{ loader ? 'collapsed': 'visible' }}" />
+                <ActivityIndicator class="loader" busy="{{loader}}"></ActivityIndicator>
+            </StackLayout>
+            <StackLayout>
+                <Label text="Or" class="center" />
+                <Label class="center lightRed" tap="signUp" marginTop="20" text="Sign Up">
+                </Label>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</Page>

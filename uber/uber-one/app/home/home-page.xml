@@ -1,0 +1,6 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded" 
+    xmlns:maps="nativescript-google-maps-sdk">
+    <StackLayout>
+        <maps:mapView latitude="47.181042" longitude="5.810090" zoom="true" mapReady="mapReady" />
+    </StackLayout>
+</Page>

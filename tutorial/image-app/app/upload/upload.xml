@@ -1,0 +1,26 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded" navigatedTo="onNavigatedTo" 
+navigatedFrom="navigatedFrom">
+
+    <ActionBar class="header">
+        <StackLayout orientation="horizontal">
+            <Label text="&#xe9c1;" class="icon" />
+            <Label text=" upload"></Label>
+        </StackLayout>
+         <!-- <NavigationButton android.systemIcon="ic_menu_home" tap="goHome" /> -->
+    </ActionBar>
+
+    <GridLayout id="uploadContainer" rows="*,*">
+        <Image id="img" row="0" />
+        <Label row="0" tap="selectImage" text="&#xe90f;" class="icon cameraIcon changeColor"></Label>
+       <StackLayout row="1" id="description">
+            <TextField hint="description" text="{{description}}" loaded="focus"/>
+            <Button  text="upload" tap="upload" id="logInBtn" class="uploadBtn"
+            visibility="{{!loader ? 'visible' : 'collapsed'}}"
+             />
+            <ActivityIndicator busy="true" class="indicator" visibility="{{loader ? 'visible' : 'collapsed'}}">
+            </ActivityIndicator>
+              <Progress value="{{currentBytes}}" maxValue="{{totalBytes}}" width="80%" class="progress" visibility="{{loader ? 'visible' : 'collapsed'}}" />
+       </StackLayout> 
+    </GridLayout>
+ 
+</Page>

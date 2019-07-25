@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:2:1-24:12
+MERGED from [com.yalantis:ucrop:1.5.0] /home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/331aa5c2e3f0ba67ecda997eb6fea55e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4356c7856c0a2fad86f6b97642337cbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/782d0d3a8dff4de35a09a88f1a1456a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/peter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/866583759708c6ada7639b110d4b8408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fc120274da8bfeac0b49d80c1d9e4b1/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/3cbc2312dbfd45fcd7040000696f90d0/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:2:1-25:12
+MERGED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:2:1-15:12
+MERGED from [:TNSListView-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/995b6a8e52fb77a1fd12da03196ddde6/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/58be85704db0e71f9d90a79013887c32/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/3c5ea949fe38e3f68f3860ae4a47b9b1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae8abacc005314eec02e539cb4f06ac9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb96df0b723fefb1661a5abc9c3f51ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1c1a6cee4accce42414d7f1b80921752/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f0a197d474645f869eed22c800706e48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b9403a977fd536ddefb03445c8e30488/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/71ca3462c0470ca2eb16a961c26f367e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ccb19b90eac9af3128c7b401b3737be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/756ee9184aaf72af9a831524f63bce43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/616303a4acce3d9236ce1ab19e109963/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2d20749b9e126c5cfb78b0c5c8c806f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dccd4108a6093dd1d0eb83bb0f40759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/474954b843dca8151b5949050d37c753/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a85b4c56cde878e1b442acc4e4d66087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24e8319517b745ed21c8d8100e3e3427/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9093d80bf143f13551a4860ad642c9ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ccb24acd86199327b909fe8bceab33a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4e58803d415892982a8dd8e26491f7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dbb654184f6780e99fea198a8dfd6699/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73320d5a1dad83d82ee193221880a567/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f1f43bd8562c47a996ecb51ee75e0839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/495476da7039007f7f498bf60d67617b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/be76708674b4dee5869074d1894a0188/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e457f00196f37bb98e479d0b86c91038/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d87c8a1f026ccfdb501e9440f58165c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c15862782b1117098ae303fb51864a69/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/baedef7c5c7ff3a10ed448a197c9d627/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5729422ebaf65903b62bc269a0ba0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:3:2-36
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yalantis:ucrop:1.5.0] /home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yalantis:ucrop:1.5.0] /home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/331aa5c2e3f0ba67ecda997eb6fea55e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/331aa5c2e3f0ba67ecda997eb6fea55e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4356c7856c0a2fad86f6b97642337cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4356c7856c0a2fad86f6b97642337cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/782d0d3a8dff4de35a09a88f1a1456a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/782d0d3a8dff4de35a09a88f1a1456a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/peter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/866583759708c6ada7639b110d4b8408/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/peter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/866583759708c6ada7639b110d4b8408/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fc120274da8bfeac0b49d80c1d9e4b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6fc120274da8bfeac0b49d80c1d9e4b1/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/3cbc2312dbfd45fcd7040000696f90d0/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/3cbc2312dbfd45fcd7040000696f90d0/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:7:5-47
+MERGED from [:TNSListView-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/995b6a8e52fb77a1fd12da03196ddde6/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/995b6a8e52fb77a1fd12da03196ddde6/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/58be85704db0e71f9d90a79013887c32/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/58be85704db0e71f9d90a79013887c32/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/3c5ea949fe38e3f68f3860ae4a47b9b1/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/3c5ea949fe38e3f68f3860ae4a47b9b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae8abacc005314eec02e539cb4f06ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae8abacc005314eec02e539cb4f06ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb96df0b723fefb1661a5abc9c3f51ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb96df0b723fefb1661a5abc9c3f51ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1c1a6cee4accce42414d7f1b80921752/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1c1a6cee4accce42414d7f1b80921752/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f0a197d474645f869eed22c800706e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f0a197d474645f869eed22c800706e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b9403a977fd536ddefb03445c8e30488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b9403a977fd536ddefb03445c8e30488/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/71ca3462c0470ca2eb16a961c26f367e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/71ca3462c0470ca2eb16a961c26f367e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ccb19b90eac9af3128c7b401b3737be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ccb19b90eac9af3128c7b401b3737be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/756ee9184aaf72af9a831524f63bce43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/756ee9184aaf72af9a831524f63bce43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/616303a4acce3d9236ce1ab19e109963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/616303a4acce3d9236ce1ab19e109963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2d20749b9e126c5cfb78b0c5c8c806f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2d20749b9e126c5cfb78b0c5c8c806f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dccd4108a6093dd1d0eb83bb0f40759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dccd4108a6093dd1d0eb83bb0f40759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/474954b843dca8151b5949050d37c753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/474954b843dca8151b5949050d37c753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a85b4c56cde878e1b442acc4e4d66087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a85b4c56cde878e1b442acc4e4d66087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24e8319517b745ed21c8d8100e3e3427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24e8319517b745ed21c8d8100e3e3427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9093d80bf143f13551a4860ad642c9ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9093d80bf143f13551a4860ad642c9ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ccb24acd86199327b909fe8bceab33a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ccb24acd86199327b909fe8bceab33a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4e58803d415892982a8dd8e26491f7c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4e58803d415892982a8dd8e26491f7c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dbb654184f6780e99fea198a8dfd6699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dbb654184f6780e99fea198a8dfd6699/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73320d5a1dad83d82ee193221880a567/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73320d5a1dad83d82ee193221880a567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f1f43bd8562c47a996ecb51ee75e0839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f1f43bd8562c47a996ecb51ee75e0839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/495476da7039007f7f498bf60d67617b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/495476da7039007f7f498bf60d67617b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/be76708674b4dee5869074d1894a0188/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/be76708674b4dee5869074d1894a0188/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e457f00196f37bb98e479d0b86c91038/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e457f00196f37bb98e479d0b86c91038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d87c8a1f026ccfdb501e9440f58165c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9d87c8a1f026ccfdb501e9440f58165c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c15862782b1117098ae303fb51864a69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c15862782b1117098ae303fb51864a69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/baedef7c5c7ff3a10ed448a197c9d627/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/baedef7c5c7ff3a10ed448a197c9d627/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5729422ebaf65903b62bc269a0ba0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/peter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/20f5729422ebaf65903b62bc269a0ba0/AndroidManifest.xml:20:5-44
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		MERGED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:13:5-81
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:11:5-81
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:11:5-67
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:10:5-67
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:16:5-22:19
+MERGED from [com.android.support:design:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/331aa5c2e3f0ba67ecda997eb6fea55e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/331aa5c2e3f0ba67ecda997eb6fea55e/AndroidManifest.xml:22:5-20
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:9:5-13:19
+MERGED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:9:5-13:19
+MERGED from [:widgets-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/3c5ea949fe38e3f68f3860ae4a47b9b1/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/peter/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/3c5ea949fe38e3f68f3860ae4a47b9b1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ccb24acd86199327b909fe8bceab33a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ccb24acd86199327b909fe8bceab33a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/peter/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/19d7b3044d3f965641005dcf34cacde8/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:14:5-68
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:12:5-68
+MERGED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/peter/.gradle/caches/transforms-1/files-1.1/uploadservice-3.4.2.aar/d5bc696c6d221677447a3b7338284e60/AndroidManifest.xml:18:13-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:9:22-74
+service#com.alexbbb.uploadservice.UploadService
+ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:15:9-22:19
+	android:enabled
+		ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:16:13-67
+intent-filter#action:name:org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:19:13-21:29
+action#org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:20:17-99
+	android:name
+		ADDED from [:nativescript_background_http:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_background_http.aar/964779ac2e92dc48e1e494ce838e82f9/AndroidManifest.xml:20:25-96
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:10:9-12:52
+	android:screenOrientation
+		ADDED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:12:13-49
+	android:name
+		ADDED from [:nativescript_imagecropper:] /home/peter/.gradle/caches/transforms-1/files-1.1/nativescript_imagecropper.aar/793cb9f794762a69422539d9378cbf8b/AndroidManifest.xml:11:13-60

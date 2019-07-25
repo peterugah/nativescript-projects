@@ -1,0 +1,11 @@
+Label {
+    color:Red;
+}
+.label{
+    /* font-size: 30;
+    color:blue;
+    transform: capitalize; */
+}
+#grad{
+    background: linear-gradient(118deg , yellow ,red);
+}

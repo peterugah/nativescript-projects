@@ -1,0 +1,17 @@
+@import '../sass/color';
+
+.upload {
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    margin: 10;
+    padding: 10;
+}
+
+.uploadIcon {
+    font-size: $largeFont * 5;
+    text-align: center;
+    margin-top: 40;
+    color: darken(white, 10);
+    cursor: pointer;
+}

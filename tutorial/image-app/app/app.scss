@@ -1,0 +1,75 @@
+@import "sass/variables";
+
+*{
+    font-family: $fontFamily;
+    font-size: 20;
+    color:$black;
+}
+.white{
+    color:white;
+}
+.large{
+    font-size: 40;
+    padding:10;
+    font-weight: 500;
+}
+.center{
+    text-align: center;
+}
+.lightRed {
+    color:lighten($red , 30);
+}
+.inputLabel {
+    font-size: 20;
+    border-color:white;
+    border-radius: 50;
+    margin:10 0;
+    border-width: 2;
+    color:white;
+    //color:lighten($red , 30);
+    padding-left: 20;
+}
+#logInBtn ,.loader{
+    color:white;
+    background: rgba(black , .1);
+     border-radius:40;
+     border-width: 0;
+    font-weight: 200;
+    font-size: 40;
+}
+.loader{
+    padding: 10;
+}
+.inputPadding {
+    margin-top:10%;
+    width: 90%;
+    padding: 10;
+}
+.icon {
+    font-family:  'icomoon';
+    font-size: 30;
+}
+.header{
+    background-color: $black;
+   
+    Label{
+        color:white;
+    }
+}
+
+#logo{
+    height: 100;
+    width:100;
+    margin-bottom:10;
+}
+
+.errorLabel{
+    background: rgba(black , .9);
+    padding:10;
+    border-radius: 5;
+    margin-bottom: 5;
+}
+.error{
+    color:white;
+    text-transform: capitalize;
+}

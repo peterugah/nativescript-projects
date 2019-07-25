@@ -1,0 +1,24 @@
+<Page xmlns:au="nativescript-ui-autocomplete" loaded="loaded">
+    <ActionBar title="Pro-UI one" />
+    <StackLayout class="stack-layout">
+        <Label text="{{name}}" fontSize="40" />
+        <Label text="Artist:" class="label" />
+        <au:RadAutoCompleteTextView items="{{ dataItems }}" suggestMode="Append" displayMode="Token" completionMode="Contains" layoutMode="Horizontal"
+        tokenAdded="tokenAdded"
+        tokenRemoved = "tokenRemoved"
+        textChanged="textChanged"
+        id="autoComplete"
+         />
+            <!-- <au:RadAutoCompleteTextView.suggestionView>
+                <au:SuggestionView suggestionViewHeight="300">
+                    <au:SuggestionView.suggestionItemTemplate>
+                        <StackLayout>
+                            <Label text="{{ text }}" />
+                        </StackLayout>
+                    </au:SuggestionView.suggestionItemTemplate>
+                </au:SuggestionView>
+            </au:RadAutoCompleteTextView.suggestionView>
+        </au:RadAutoCompleteTextView> -->
+    </StackLayout>
+
+</Page>

@@ -1,0 +1,8 @@
+{
+	"nativescript-webview-interface": {
+		"/home/peter/Desktop/native-script/web-view-app/node_modules/nativescript-webview-interface/platforms/android/WebViewInterface.jar": "76c82949e18be2e64a13fcf1587898f426846790"
+	},
+	"tns-core-modules-widgets": {
+		"/home/peter/Desktop/native-script/web-view-app/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
+	}
+}

@@ -1,0 +1,5 @@
+<Page>
+    <StackLayout>
+        <Label text="helo" />
+    </StackLayout>
+</Page>

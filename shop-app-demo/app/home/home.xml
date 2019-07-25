@@ -1,0 +1,13 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded">
+
+
+    <ScrollView>
+        <StackLayout>
+            <WebView id="web-view" />
+            <!-- <Button text="call web view" tap="callWebView" /> -->
+            <Button text="fetch image" tap="fetchImage" />
+            
+            <Image id="image" />
+        </StackLayout>
+    </ScrollView>
+</Page>

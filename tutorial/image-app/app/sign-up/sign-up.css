@@ -1,0 +1,1 @@
+#signupBg{background:linear-gradient(180deg, #8b60ed, #b372bd)}.introAnimation{animation-name:intro;animation-duration:.4s;animation-fill-mode:forwards;animation-iteration-count:1;animation-timing-function:spring}@keyframes intro{0%{transform:translateX(-180deg);transform:scaleX(0.8)}100%{transform:translateX(0deg);transform:scaleX(1)}}

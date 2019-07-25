@@ -1,0 +1,165 @@
+{
+  "_args": [
+    [
+      "nativescript-ui-autocomplete@^3.10.0",
+      "/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-dataform"
+    ]
+  ],
+  "_from": "nativescript-ui-autocomplete@>=3.10.0 <4.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "nativescript-ui-autocomplete@3.10.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-ui-autocomplete",
+  "_nodeVersion": "8.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-ui-autocomplete_3.10.2_1542717221151_0.4153162481744641"
+  },
+  "_npmUser": {
+    "email": "nativescript@telerik.com",
+    "name": "tns-bot"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-ui-autocomplete",
+    "raw": "nativescript-ui-autocomplete@^3.10.0",
+    "rawSpec": "^3.10.0",
+    "scope": null,
+    "spec": ">=3.10.0 <4.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/nativescript-ui-dataform"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-ui-autocomplete/-/nativescript-ui-autocomplete-3.10.2.tgz",
+  "_shasum": "1f6ee4a5a83362b52ad73a002e3daa7f9ecf6499",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-ui-autocomplete@^3.10.0",
+  "_where": "/home/peter/Desktop/native-script/sidebar/node_modules/nativescript-ui-dataform",
+  "author": {
+    "email": "nativescriptplugins@progress.com",
+    "name": "NativeScript Team"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
+  },
+  "dependencies": {
+    "nativescript-ui-core": "~2.0.0"
+  },
+  "description": "Improve data entry speed and accuracy by triggering auto-completion for text entries.",
+  "devDependencies": {
+    "@angular/common": "~6.1.0",
+    "@angular/compiler": "~6.1.0",
+    "@angular/compiler-cli": "~6.1.0",
+    "@angular/core": "~6.1.0",
+    "@angular/forms": "~6.1.0",
+    "@angular/http": "~6.1.0",
+    "@angular/platform-browser": "~6.1.0",
+    "@angular/platform-browser-dynamic": "~6.1.0",
+    "@angular/router": "~6.1.0",
+    "nativescript-angular": "~6.2.0",
+    "nativescript-vue": "~2.0.2",
+    "npm-watch": "^0.3.0",
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "rxjs": "^6.2.0",
+    "tns-core-modules": "^5.0.1",
+    "tns-platform-declarations": "^5.0.0",
+    "tslint": "^5.0.0",
+    "typescript": "~2.8.2",
+    "vue": "^2.5.17",
+    "zone.js": "^0.8.4"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 60,
+    "integrity": "sha512-WC4wotiRHrKfiIUIqT8ljIjLMvNHZX+hftUihhULNgHM3w33HIv+BqMwACLTDLuFc4TajXpeUmTDpsCdU4zxpw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb8/8mCRA9TVsSAnZWagAAeecP/idYRFsseX/cFT+WVzxf\nthDJ2JPXCXgyH+4e0/Ax3tkNfwdP8tmh8zZYVUvvk1BX0I6lp4TZdK8T6JUg\nJ1i8VOgKAF3w+jgNzMFSTi5GvrpNYQS3fQplTNn7wFDek+HGMH3Djt0eSpDY\nEm0Tzcf1qED0Q/w4+6fCt4TgKL4yb8EmNHtEedPe5/DLRwckV3j0rZRZ9smc\nFDsdZ8wuxxpySSUEgKzx53by9tatavQbSyZ5stB11LBuAEKbr/VIqgwu5yTN\npp8Y7Mpn6TACxBFU3HeBdtsoNj7zzTgV5mcDUt+BkWcn2GPjbTFZLh3Uw6Rs\nHOt7GAoFIbGuhVja29S93YzPGqOzeZakZ+wyBgXwnQLngBavUBxvUogxqmXM\ndiNJHk4PHBd3ZNudbKLhXk/SxZRutY8RnWz11PtiG59Q+9UtLlpoYESJXSGz\neD+XGORVb9J3LHesSLLHLtO+TPtUkgxlZnzVJ3xq4IVWr+K4VeMNyBiXBIBR\nIPNeAMJieUURhHd6moCG2N8YQ6MyOpF1tANa1AshiE0t94LgRrTl/OA7fQe+\nO7RzFgduL6xygbSQOx0eSnrreP+dz2u6xMcn/CfkLYS8kovt3eaPNlIr7ssK\nFbfxytOHt84WejyuiadTxhjpe9GD8Np7qfrQrL1mL1SAvwhpFc1NxvtnspTB\nkY+W\r\n=5uWy\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "1f6ee4a5a83362b52ad73a002e3daa7f9ecf6499",
+    "tarball": "https://registry.npmjs.org/nativescript-ui-autocomplete/-/nativescript-ui-autocomplete-3.10.2.tgz",
+    "unpackedSize": 3565740
+  },
+  "homepage": "https://github.com/telerik/nativescript-ui-feedback",
+  "keywords": [
+    "Android",
+    "JavaScript",
+    "NativeScript",
+    "iOS"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "ui-autocomplete",
+  "maintainers": [
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    }
+  ],
+  "name": "nativescript-ui-autocomplete",
+  "nativescript": {
+    "platforms": {
+      "android": "4.2.0",
+      "ios": "4.2.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telerik/nativescript-ui-feedback.git"
+  },
+  "scripts": {
+    "build": "npm run build.wrappers && npm run build.native",
+    "build.android": "bash ../publish/build-android.sh",
+    "build.ios": "bash ../publish/build-ios.sh",
+    "build.native": "npm run build.android && npm run build.ios",
+    "build.wrappers": "npm i && tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**' --exclude '**/platforms/**' --exclude '**/e2e/**'",
+    "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
+    "demo.android": "npm run build.wrappers && npm run build.android && cd ../demo && tns run android --syncAllFiles",
+    "demo.android.release": "npm run build.wrappers && npm run build.android && cd ../demo && tns run android --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.android": "npm run build.wrappers && npm run build.android && cd ../demo-angular && tns run android --syncAllFiles",
+    "demo.angular.android.release": "npm run build.wrappers && npm run build.android && cd ../demo-angular && tns run android --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.ios": "npm run build.wrappers && npm run build.ios && cd ../demo-angular && tns run ios --syncAllFiles",
+    "demo.angular.ios.release": "npm run build.wrappers && npm run build.ios && cd ../demo-angular && tns run ios --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.reset": "cd ../demo-angular && rimraf platforms",
+    "demo.ios": "npm run build.wrappers && npm run build.ios && cd ../demo && tns run ios --syncAllFiles",
+    "demo.ios.release": "npm run build.wrappers && npm run build.ios && cd ../demo && tns run ios --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.reset": "cd ../demo && rimraf platforms",
+    "demo.vue.android": "npm run build.wrappers && npm run build.android && cd ../demo-vue && tns run android --syncAllFiles",
+    "demo.vue.ios": "npm run build.wrappers && npm run build.ios && cd ../demo-vue && tns run ios --syncAllFiles",
+    "demo.vue.reset": "cd ../demo-vue && rimraf platforms",
+    "ngc": "node --max-old-space-size=8192 ./node_modules/.bin/ngc -p tsconfig.json",
+    "pack": "npm run prepare && bash ../publish/pack.sh",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-ui-autocomplete && cd ../src",
+    "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-ui-autocomplete && tns plugin add ../src",
+    "plugin.watch": "npm run plugin.watch.tsc & npm run plugin.watch.android & npm run plugin.watch.ios",
+    "plugin.watch.android": "npm i && npm-watch build.android",
+    "plugin.watch.ios": "npm i && npm-watch build.ios",
+    "plugin.watch.tsc": "npm run tsc -- -w",
+    "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "prepare": "npm run ngc",
+    "test.android": "npm run build && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm run build && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude '**/node_modules/**' --exclude '**/platforms/**' --exclude '**/e2e/**'"
+  },
+  "typings": "index.d.ts",
+  "version": "3.10.2",
+  "watch": {
+    "build.android": {
+      "extensions": "java",
+      "patterns": [
+        "../src-native/android/TNSAutoComplete/src"
+      ]
+    },
+    "build.ios": {
+      "extensions": "h,m",
+      "patterns": [
+        "../src-native/ios/TNSAutoComplete"
+      ]
+    }
+  }
+}

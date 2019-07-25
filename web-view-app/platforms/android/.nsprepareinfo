@@ -1,0 +1,18 @@
+{
+	"time": "Wed Dec 05 2018 00:22:59 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "ae940aca524c1a55511edbc69e2fb278736088570319de2821b7c306bbf3a0bf",
+	"changesRequireBuildTime": "Wed Dec 05 2018 00:21:49 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/home/peter/Desktop/native-script/web-view-app/app/home/home.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/web-view-app/app/app-root.xml": "99103de236ce73014d1edd84a1cd8a3e04818fab",
+		"/home/peter/Desktop/native-script/web-view-app/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/peter/Desktop/native-script/web-view-app/app/app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"/home/peter/Desktop/native-script/web-view-app/app/home/home.xml": "d8684ada669be1050b3806fac7ae4a671db825b2",
+		"/home/peter/Desktop/native-script/web-view-app/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/peter/Desktop/native-script/web-view-app/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}

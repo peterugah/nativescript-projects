@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/peter/Desktop/native-script/demo-app/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

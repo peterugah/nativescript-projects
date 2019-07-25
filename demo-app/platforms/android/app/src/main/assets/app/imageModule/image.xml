@@ -1,0 +1,7 @@
+<Page actionBarHidden="true" loaded="loaded">
+<StackLayout>
+    <Label text="hello there" swipe="swipe"></Label>
+    <Image src="{{imgSrc}}" stretch="aspectFill" width="300" height="300" />
+</StackLayout>
+
+</Page>

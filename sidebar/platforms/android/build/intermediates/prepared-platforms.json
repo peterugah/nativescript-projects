@@ -1,0 +1,10 @@
+{
+    "nativescript-theme-core": true,
+    "nativescript-ui-dataform": true,
+    "nativescript-ui-sidedrawer": true,
+    "tns-core-modules": true,
+    "nativescript-ui-autocomplete": true,
+    "nativescript-ui-core": true,
+    "tns-core-modules-widgets": true,
+    "tslib": true
+}

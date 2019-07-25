@@ -1,0 +1,23 @@
+<Page actionBarHidden="true" class="bg1" loaded="loaded">
+    <StackLayout id="stackPage">
+        <!-- <SearchBar id="searchBar" hint="{{sbHint}}" text="{{sbText}}" clear="onClear" submit="onSubmit" /> -->
+        <Label visibility="collapsed" text="upload" class="upload icon" />
+        <!-- <Slider row="1" col="1" value="{{ sliderValue }}" minValue="{{ firstMinValue }}" maxValue="{{ firstMaxValue }}" height="20" color="red" fontSize="20"/> -->
+        <!-- <Switch background="blue" color="white" isEnabled="false" /> -->
+        <!-- <TextField class="h3 p-15 m-15 text-left input input-border">
+    <FormattedString>
+        <Span text="Formatted " fontSize="16"></Span>
+        <Span text="String " fontSize="18"></Span>
+        <Span text="TextField" fontSize="22"></Span>
+    </FormattedString>
+</TextField> -->
+        <!-- <TimePicker hour="10" minute="25" loaded="onPickerLoaded" row="2" col="0" colSpan="2" class="m-15" verticalAlignment="center">
+        </TimePicker> -->
+        <SearchBar text="this a text bar" color="white" submit="searchValue" clear="clear"/>
+        <Label text="&#xe9c3;" class="icon uploadIcon" tap="uploadImage" />
+        <GridLayout>
+            <ActivityIndicator busy="{{busy}}" class="indicator"/>
+        </GridLayout>
+    </StackLayout>
+
+</Page>

@@ -1,0 +1,164 @@
+{
+  "_args": [
+    [
+      "nativescript-ui-listview",
+      "/home/peter/Desktop/native-script/demo-app"
+    ]
+  ],
+  "_from": "nativescript-ui-listview@latest",
+  "_hasShrinkwrap": false,
+  "_id": "nativescript-ui-listview@5.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "",
+  "_location": "/nativescript-ui-listview",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-ui-listview_5.0.0_1543323475986_0.5633515701662357"
+  },
+  "_npmUser": {
+    "email": "nativescript@telerik.com",
+    "name": "tns-bot"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-ui-listview",
+    "raw": "nativescript-ui-listview",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-ui-listview/-/nativescript-ui-listview-5.0.0.tgz",
+  "_shasum": "008657e91e315a0efdd3f7fb35c91c85d5620005",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-ui-listview",
+  "_where": "/home/peter/Desktop/native-script/demo-app",
+  "author": {
+    "email": "nativescriptplugins@progress.com",
+    "name": "NativeScript Team"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
+  },
+  "dependencies": {
+    "nativescript-ui-core": "~2.0.0"
+  },
+  "description": "A powerful data list control implementing a bunch of features native to the mobile world as item animations, pull-to-refresh, item layouts, load-on-demand, swipe-to-execute, etc.",
+  "devDependencies": {
+    "@angular/common": "~7.0.0",
+    "@angular/compiler": "~7.0.0",
+    "@angular/compiler-cli": "~7.0.0",
+    "@angular/core": "~7.0.0",
+    "@angular/forms": "~7.0.0",
+    "@angular/http": "~7.0.0",
+    "@angular/platform-browser": "~7.0.0",
+    "@angular/platform-browser-dynamic": "~7.0.0",
+    "@angular/router": "~7.0.0",
+    "nativescript-angular": "~7.0.0",
+    "npm-watch": "^0.3.0",
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "rxjs": "~6.3.3",
+    "tns-core-modules": "^5.0.0",
+    "tns-platform-declarations": "^5.0.0",
+    "tslint": "^5.0.0",
+    "typescript": "~3.1.6",
+    "zone.js": "^0.8.4"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 70,
+    "integrity": "sha512-WxM4I5aq3XEszhh3VTGecLh1qUdMmhIu3dbOUdYcJxBiEjkFyC+SiaserEOLzf/z605h9fy07WW2lutDuq2tWQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb/T9UCRA9TVsSAnZWagAAmpUP/i5PzFuZbvB1Kz8/s23f\nFuBg9Yoo0mw4pVze1qZHFLA3+DArL6onfJA2/Uw9LDJLAaQxalAclmmEinu1\nP41+4R5mHcdxwgaSWKI5gPSd+IRlTU5Lp02b6OiyY+Ejs1o2rLa4qjtipfAh\nERgZSU3Iv/egINXYkgnLwSmzxdbndt7ijAb6Ee+uToAwrlkpSJOUIr/rXmo+\nOXhuBxFtjX5xrSE5aSKeiNC26ihxcULS9mNrTzI/8geHF9bbZcPRkG9Ad6DU\nyB1no1NZ6WoaJEyDS/WMMo7FrDhKSi6lhMLYuJlS+WrrDF+GagJPNmTmzgyg\nG1/EjxawvYPZhXouPkMFNZYRhqKTaURsx6OaJj7cD95bnXefU1JCnImPJL8a\nAHpuiwqSBO+UmxOy6UdLnCbN0eQxAFAeYsGmbJ9ezwYEVLPqDeEvk+p7pnjG\nqqXovvLMcyc9jytJeEMgsQ7QSB9s7MwjloOCYEkY/LuPbhVImVl6I4fayMWS\nVvXfIoUOhRfA3gi3EV072475JpCCqNTvMh4bal3yRqL6zshp9oSIvHOvgw1b\ns+BwaBd01W/dWebq748VtcNH+/YFskc5H4dAhJk39gzv1noIb3jsfNEy4xcs\nV4sPFLyN9HXPFmPLSqCu2tSbdteRYapyfk/Iq1x+H1UrY/hibsmqTEeIXcC6\nUHTP\r\n=FzNS\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "008657e91e315a0efdd3f7fb35c91c85d5620005",
+    "tarball": "https://registry.npmjs.org/nativescript-ui-listview/-/nativescript-ui-listview-5.0.0.tgz",
+    "unpackedSize": 5909501
+  },
+  "homepage": "https://github.com/telerik/nativescript-ui-feedback",
+  "keywords": [
+    "Android",
+    "JavaScript",
+    "NativeScript",
+    "iOS"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "ui-listview",
+  "maintainers": [
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    }
+  ],
+  "name": "nativescript-ui-listview",
+  "nativescript": {
+    "platforms": {
+      "android": "4.2.0",
+      "ios": "4.2.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telerik/nativescript-ui-feedback.git"
+  },
+  "scripts": {
+    "build": "npm run build.wrappers && npm run build.native",
+    "build.android": "bash ../publish/build-android.sh",
+    "build.ios": "bash ../publish/build-ios.sh",
+    "build.native": "npm run build.android && npm run build.ios",
+    "build.wrappers": "npm i && tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**' --exclude '**/platforms/**'",
+    "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
+    "demo.android": "npm run build.wrappers && npm run build.android && cd ../demo && tns run android --syncAllFiles",
+    "demo.android.release": "npm run build.wrappers && npm run build.android && cd ../demo && tns run android --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.android": "npm run build.wrappers && npm run build.android && cd ../demo-angular && tns run android --syncAllFiles",
+    "demo.angular.android.release": "npm run build.wrappers && npm run build.android && cd ../demo-angular && tns run android --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.ios": "npm run build.wrappers && npm run build.ios && cd ../demo-angular && tns run ios --syncAllFiles",
+    "demo.angular.ios.release": "npm run build.wrappers && npm run build.ios && cd ../demo-angular && tns run ios --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.angular.reset": "cd ../demo-angular && rimraf platforms",
+    "demo.ios": "npm run build.wrappers && npm run build.ios && cd ../demo && tns run ios --syncAllFiles",
+    "demo.ios.release": "npm run build.wrappers && npm run build.ios && cd ../demo && tns run ios --bundle --env.aot --env.uglify --env.snapshot --release --key-store-path ../../keystores/testing-key.jks --key-store-password 1234567890 --key-store-alias test --key-store-alias-password 1234567890",
+    "demo.reset": "cd ../demo && rimraf platforms",
+    "demo.vue.android": "npm run build.wrappers && npm run build.android && cd ../demo-vue && tns debug android --syncAllFiles --bundle",
+    "demo.vue.ios": "npm run build.wrappers && npm run build.ios && cd ../demo-vue && tns debug ios --syncAllFiles --bundle",
+    "demo.vue.reset": "cd ../demo-vue && rimraf platforms",
+    "ngc": "node --max-old-space-size=8192 ./node_modules/.bin/ngc -p tsconfig.json",
+    "pack": "npm run prepare && bash ../publish/pack.sh",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-ui-listview && cd ../src",
+    "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-ui-listview && tns plugin add ../src",
+    "plugin.watch": "npm run plugin.watch.tsc & npm run plugin.watch.android & npm run plugin.watch.ios",
+    "plugin.watch.android": "npm i && npm-watch build.android",
+    "plugin.watch.ios": "npm i && npm-watch build.ios",
+    "plugin.watch.tsc": "npm run tsc -- -w",
+    "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "prepare": "npm run ngc",
+    "test.android": "npm run build && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm run build && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude '**/node_modules/**' --exclude '**/platforms/**'"
+  },
+  "typings": "index.d.ts",
+  "version": "5.0.0",
+  "watch": {
+    "build.android": {
+      "extensions": "java",
+      "patterns": [
+        "../src-native/android/TNSListView/src"
+      ]
+    },
+    "build.ios": {
+      "extensions": "h,m",
+      "patterns": [
+        "../src-native/ios/TNSListView"
+      ]
+    }
+  }
+}

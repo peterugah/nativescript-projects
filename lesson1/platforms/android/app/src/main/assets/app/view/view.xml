@@ -1,0 +1,8 @@
+<Page navigatedTo="navigatedTo">
+    <StackLayout>
+        <Label text="name is " fontSize="30"/>
+        <Label text="{{name}}" fontSize="30"/>
+        <Label text="occupation is " fontSize="30"/>
+        <Label text="{{occupation}}" fontSize="30"/>
+    </StackLayout>
+</Page>

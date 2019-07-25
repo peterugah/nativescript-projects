@@ -1,0 +1,153 @@
+{
+  "_args": [
+    [
+      "nativescript-background-http",
+      "/home/peter/Desktop/native-script/demo-app"
+    ]
+  ],
+  "_from": "nativescript-background-http@latest",
+  "_hasShrinkwrap": false,
+  "_id": "nativescript-background-http@3.3.1",
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "",
+  "_location": "/nativescript-background-http",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-background-http_3.3.1_1542038843336_0.9390295269483573"
+  },
+  "_npmUser": {
+    "email": "nativescript@telerik.com",
+    "name": "tns-bot"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-background-http",
+    "raw": "nativescript-background-http",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-background-http/-/nativescript-background-http-3.3.1.tgz",
+  "_shasum": "f741c95d4d50c919eec96976c1701b8111489877",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-background-http",
+  "_where": "/home/peter/Desktop/native-script/demo-app",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-background-http/issues"
+  },
+  "dependencies": {},
+  "description": "A cross platform plugin for [the NativeScript framework](http://www.nativescript.org), that provides background upload for iOS and Android.",
+  "devDependencies": {
+    "rimraf": "~2.6.2",
+    "semver": "~5.6.0",
+    "tns-core-modules": "^5.0.1",
+    "tns-platform-declarations": "^5.0.0",
+    "tslint": "~5.11.0",
+    "typescript": "~2.8.2"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 9,
+    "integrity": "sha512-Y0ryFxKpXLv1sym1gMaqS2n4d3GhFcGnHc1ehL5gOjpv1E589dYCQnhrkEkn8U6Syq40au4exnsw45/QfEw+/g==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb6aU8CRA9TVsSAnZWagAAB3gP+wQInlZAM7CswQXtfzim\nGzOzqvjjIepDWcZYrsGC/6UpAIdxg3ivLu3yLufnwUbJQ8BcirnZOO6LDIPu\nMo9lDCf5B6pjCcIREbYux3cPsW15aBf5WfAhI3NQI0ZMhL7no8IAQJUp+pX0\n2ArJBOnBULAWirSZqSKFTYedAXUrRGhPtU85tl0NfHMDLNVu2X159dui3gLm\nvDeoJHGAWAzw+Ryv3klo5DQJfBrY0Dhpuuyy7BMPbH9WK0SCMXjuuBhDz+99\nB4pZe5ZAv0jLYPRJQAy3uSueOyB0qG6rbFY6jod1CflV26KIJvvU8T6wgR1I\n8DCBtqEFBNx2ImVx4j2FGz9YcxdpQv7jQpXIiXtHYqTjnPLQIaZFCRM+kpiE\nlldMnEwlgDwy8yAlfW2tGNRFvKzD5zvHkuPi9XMxm5lKREVjCzoqkRPpVBI/\nnLILEgpqUpZlZNOJP8SCv/qoBEX+xOecXq+FyoWjpJgAzW8K99i/IrRRuW1M\nuWy/7n4MCrUWMfk4ivv763RR+SzOoSgduaYkB97n7uHyfa3e6K3qhTf9TPq+\n+nXJpkNvQRYzaFvI3VrxvcdoUavztsYcJbrHCm521qDxl++3VF/GzrTg/Bt7\nFoCYkxTjfUPyjgBbJ/ZygDV/9NOwXhj74l/9HX/zmvU99/p3EnNQ5HZr+NlT\nlX0G\r\n=729N\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "f741c95d4d50c919eec96976c1701b8111489877",
+    "tarball": "https://registry.npmjs.org/nativescript-background-http/-/nativescript-background-http-3.3.1.tgz",
+    "unpackedSize": 64467
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-background-http/issues",
+  "keywords": [
+    "NativeScript",
+    "background",
+    "download",
+    "http",
+    "upload"
+  ],
+  "license": "Apache-2.0",
+  "main": "background-http",
+  "maintainers": [
+    {
+      "name": "dtodorov",
+      "email": "dimitar.todorov@progress.com"
+    },
+    {
+      "name": "lini",
+      "email": "bit@gbg.bg"
+    },
+    {
+      "name": "panayot.cankov",
+      "email": "panayot.cankov@telerik.com"
+    },
+    {
+      "name": "tachev",
+      "email": "nevermindd7@gmail.com"
+    },
+    {
+      "name": "tbozhikov",
+      "email": "t_bozhikov@yahoo.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "toddanglin",
+      "email": "toddanglin@gmail.com"
+    },
+    {
+      "name": "veselina.radeva",
+      "email": "veselina.radeva@progress.com"
+    },
+    {
+      "name": "zbranzov",
+      "email": "branzov.z@gmail.com"
+    }
+  ],
+  "name": "nativescript-background-http",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-background-http.git"
+  },
+  "scripts": {
+    "build": "npm i && tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
+    "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
+    "demo-angular.android": "npm i && npm run tsc && cd ../demo-angular && tns run android --syncAllFiles",
+    "demo-angular.ios": "npm i && npm run tsc && cd ../demo-angular && tns run ios --syncAllFiles",
+    "demo-angular.reset": "cd ../demo-angular && rimraf platforms",
+    "demo.android": "npm i && npm run tsc && cd ../demo && tns run android --syncAllFiles",
+    "demo.ios": "npm i && npm run tsc && cd ../demo && tns run ios --syncAllFiles",
+    "demo.reset": "cd ../demo && rimraf platforms",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-background-http && cd ../src",
+    "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-background-http && tns plugin add ../src",
+    "plugin.tscwatch": "npm run tsc -- -w",
+    "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "prepare": "node scripts/prepare.js",
+    "server": "cd ../demo-server && npm run start",
+    "test.android": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\""
+  },
+  "typings": "index.d.ts",
+  "url": "https://github.com/NativeScript/nativescript-background-http/issues",
+  "version": "3.3.1"
+}

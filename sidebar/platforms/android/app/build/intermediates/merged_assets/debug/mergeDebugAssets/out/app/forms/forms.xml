@@ -1,0 +1,6 @@
+<Page>
+<ActionBar title="welcome" />
+    <StackLayout>
+        <Label text="hello" />
+    </StackLayout>
+</Page>

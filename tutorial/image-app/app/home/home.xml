@@ -1,0 +1,40 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded" navigatedTo="onNavigatedTo" 
+    xmlns:svg="@exeleon/nativescript-svg">
+    <ActionBar backgroundColor="#4d546d">
+        <svg:SVGImage id="logo" src="~/image/camera.svg" tap="gotoUploadPage" />
+        <ActionItem android.systemIcon="button_onoff_indicator_off" android.position="actionBar" tap="logout">
+        </ActionItem>
+    </ActionBar>
+    <GridLayout rows="*" columns="*">
+        <Repeater items="{{ errors }}" row="0"  col="0">
+            <Repeater.itemsLayout>
+                <StackLayout />
+            </Repeater.itemsLayout>
+            <Repeater.itemTemplate>
+                <Label textWrap="true" class="errorLabel">
+                    <FormattedString>
+                        <Span text="- " class="error" />
+                        <Span text="{{$value}}" class="error" />
+                    </FormattedString>
+                </Label>
+            </Repeater.itemTemplate>
+        </Repeater>
+        <ListView items="{{ items }}" itemTap="editImage" class="show" id="imagesList" row="0" col="0">
+            <ListView.itemTemplate row="0">
+                <GridLayout rows="*" columns="*,*">
+                    <Image row="0" stretch="fill" col="0" src="{{resize}}"/>
+                    <StackLayout row="0" col="1" padding="10">
+                        <Label text="{{description}}" textWrap="true" class="desc" />
+                        <Label text="{{created_at}}" textWrap="true" class="date" />
+
+                    </StackLayout>
+                </GridLayout>
+            </ListView.itemTemplate>
+
+        </ListView>
+        <ActivityIndicator class="loader" busy="{{loader}}" visibility="{{loader ? 'visible' : 'collapsed'}}" margin="20 0" row="0" col="1" />
+        <Label visibility=" {{itemsLoaded ? 'collapsed' : 'visible'}}" text="upload some images" textWrap="true" class="noImages" row="0" col="0" />
+      
+       <Label visibility="{{more  ? 'visible' : 'collapsed'}}" tap="loadMore" text="more" row="0" col="0" id="loadMore" />
+    </GridLayout>
+</Page>

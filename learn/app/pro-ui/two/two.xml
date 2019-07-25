@@ -1,0 +1,17 @@
+<Page xmlns:lv="nativescript-ui-listview" loaded="loaded" padding="10">
+    <Label text="welcome" fontSize="40" />
+    <lv:RadListView items="{{ dataItems }}" pullToRefresh="true" pullToRefreshInitiated="pullToRefreshInitiated"
+    loadOnDemandMode="auto" loadMoreDataRequested="pullToRefreshInitiated"
+    >
+
+        <lv:RadListView.pullToRefreshStyle>
+            <lv:PullToRefreshStyle indicatorColor="orange" indicatorBackgroundColor="white"/>
+        </lv:RadListView.pullToRefreshStyle>
+
+        <lv:RadListView.itemTemplate >
+            <StackLayout orientation="vertical">
+                <Label fontSize="30" text="{{$value}}" />
+            </StackLayout>
+        </lv:RadListView.itemTemplate>
+    </lv:RadListView>
+</Page>

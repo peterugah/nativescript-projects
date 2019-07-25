@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

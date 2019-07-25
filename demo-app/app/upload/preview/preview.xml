@@ -1,0 +1,8 @@
+<Page  shownModally="shownModally" loaded="loaded">
+  <StackLayout>
+    <Image id="imagePreview"/>
+    <Button text="upload" class="btn is-primary"
+    tap="uploadImage"
+    />
+  </StackLayout>
+</Page>

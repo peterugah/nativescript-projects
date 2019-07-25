@@ -1,0 +1,30 @@
+{
+	"time": "Thu Nov 29 2018 21:17:12 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "a80833c2bcb379a5eb06478c5f12651f6bcd1529f0dac930cb90f2b5b4dbc50d",
+	"changesRequireBuildTime": "Thu Nov 29 2018 21:11:16 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/one/one.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/one/one.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/two/two.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/two/two.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/peter/Desktop/native-script/learn/app/app-root.xml": "03ef8eb351961045e48818987360464a353be1e0",
+		"/home/peter/Desktop/native-script/learn/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/peter/Desktop/native-script/learn/app/app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"/home/peter/Desktop/native-script/learn/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/home/peter/Desktop/native-script/learn/app/main-view-model.js": "c992a312cf62a165ab32176febc47b6a4b6f2367",
+		"/home/peter/Desktop/native-script/learn/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/home/peter/Desktop/native-script/learn/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/peter/Desktop/native-script/learn/app/pro-main/main.js": "cdf1d0bb84abb9d6f1dccbaa597e63b2328a4002",
+		"/home/peter/Desktop/native-script/learn/app/pro-main/main.xml": "0132f1c11590f85e16bc73370a696613584b19e7",
+		"/home/peter/Desktop/native-script/learn/app/pro-main/modules/main.xml": "93d2ae216d37f579d72dced052f8bd07a2b2afdb",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/one/one.js": "b8166bf86f40bd3434cfce80641222104f77b15f",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/one/one.xml": "97361b8e7e3f72e28f89ea168455f4cfeceeedbe",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/two/two.js": "498676ba8fc6446eef5199f835ccbceb2a92369f",
+		"/home/peter/Desktop/native-script/learn/app/pro-ui/two/two.xml": "c666f078899153f164afa9d84fd7938419b96b0e",
+		"/home/peter/Desktop/native-script/learn/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}

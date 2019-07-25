@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/ucrop-1.5.0.aar/6e07a3d26435baa1c70260085f5806b7/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/anim/abc_popup_enter.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<Page loaded="loaded">
+<ActionBar>
+    <StackLayout orientation="horizontal">
+        <Label fontSize="40"  text="welcome " />
+        <Label text="{{name}}" fontSize="40" />
+    </StackLayout>
+</ActionBar>
+
+<StackLayout>
+   <TextField text="{{name}}" fontSize="30" />
+   <Button text="next page" width="50%" horizontalAlignment="left" background="green" color="white" tap="nextPage" />
+</StackLayout>
+</Page>

@@ -1,0 +1,8 @@
+{
+    "nativescript-theme-core": true,
+    "nativescript-ui-sidedrawer": true,
+    "tns-core-modules": true,
+    "nativescript-ui-core": true,
+    "tns-core-modules-widgets": true,
+    "tslib": true
+}

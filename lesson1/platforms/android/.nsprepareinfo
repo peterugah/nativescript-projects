@@ -1,0 +1,21 @@
+{
+	"time": "Sun Dec 02 2018 00:19:58 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "01a1a18c849dbc0951ec72205369533008212d3f40236bd6455293cf026a7c37",
+	"changesRequireBuildTime": "Fri Nov 30 2018 22:57:36 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/home/peter/Desktop/native-script/lesson1/app/app-root.xml": "99103de236ce73014d1edd84a1cd8a3e04818fab",
+		"/home/peter/Desktop/native-script/lesson1/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/peter/Desktop/native-script/lesson1/app/app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"/home/peter/Desktop/native-script/lesson1/app/home/home.css": "f6ef79c98f3886b1cd1106afadce5c63ed44ab78",
+		"/home/peter/Desktop/native-script/lesson1/app/home/home.js": "555b9962c56beeea07b7d6c95eb1717457d87fe7",
+		"/home/peter/Desktop/native-script/lesson1/app/home/home.xml": "7ab4c3de3c5066ace567c9a3e6633d6687cbc32d",
+		"/home/peter/Desktop/native-script/lesson1/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/peter/Desktop/native-script/lesson1/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/home/peter/Desktop/native-script/lesson1/app/view/view.js": "5651d988f1bd2ebad033125be9038c1ad70840bd",
+		"/home/peter/Desktop/native-script/lesson1/app/view/view.xml": "0e8d54f324211fdc4288e402390f4e99d15247c5"
+	}
+}

@@ -1,0 +1,19 @@
+<Page>
+<nsDrawer:RadSideDrawer xmlns:nsDrawer="nativescript-ui-sidedrawer"
+id="sideDrawer"
+drawerTransition="ScaleUpTransition"
+drawerLocation="Top"
+>
+    <nsDrawer:RadSideDrawer.drawerContent>
+        <StackLayout backgroundColor="blue">
+            <Label text="Side Menu" fontSize="30"></Label>
+        </StackLayout>
+    </nsDrawer:RadSideDrawer.drawerContent>
+    <nsDrawer:RadSideDrawer.mainContent>
+        <StackLayout>
+        <Button text="toggle" tap="toggle" marginTop="10" width="40%" />
+           <!-- <Frame defaultPage="home2/home2" ></Frame> -->
+        </StackLayout>
+    </nsDrawer:RadSideDrawer.mainContent>
+</nsDrawer:RadSideDrawer> 
+</Page>

@@ -1,0 +1,11 @@
+<Page loaded="loaded" actionBarHidden="false">
+    <ActionBar border="0">
+    <Label text="center" horizontalAlignment="center" textTransform="uppercase" />
+        <NavigationButton text="Go Back"  alignment="right" tap="onNavBtnTap" andorid.systemIcon="10"/>
+    </ActionBar>
+    <StackLayout>
+
+        <Button route="../home/home" text="welcome" tap="gotoHome" />
+        <ActivityIndicator busy="true" color="orange" background="#fdfdfd" width="50" height="50" borderRadius="100%" />
+    </StackLayout>
+</Page>

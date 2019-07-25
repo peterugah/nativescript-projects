@@ -1,0 +1,21 @@
+{
+	"time": "Sat Dec 08 2018 03:23:55 GMT+0530 (IST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "505d8ec4c748b35f10d195e368ff303b8902d966d7cbe3df07194901c2b70908",
+	"changesRequireBuildTime": "Fri Dec 07 2018 03:40:50 GMT+0530 (IST)",
+	"appFilesHashes": {
+		"/home/peter/Desktop/native-script/shop-app-demo/app/app-root.xml": "99103de236ce73014d1edd84a1cd8a3e04818fab",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/app.js": "51fe37fb0847709d2ae685dc786d3118965e8da6",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/home/home.js": "84404e7847f8dc61ee8d558fc7259cb1cbda5f4d",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/home/home.xml": "3f31c5da6ad5f302e3b6ba54db4ff4344171c96b",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/www/index.html": "729cc48904fbe5098fc80a7778c9b46dbabdbb97",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/www/lib/nativescript-webview-interface.js": "bce960e1689e729ab8367f43d5c7d5de64e9d5ae",
+		"/home/peter/Desktop/native-script/shop-app-demo/app/www/lib/vue.min.js": "4ad5cf8ea6ce4aba9eed41e2b330d362e74803f8"
+	}
+}

@@ -1,0 +1,24 @@
+<Page xmlns:nsDrawer="nativescript-ui-sidedrawer">
+    <nsDrawer:RadSideDrawer id="sideDrawer" drawerLocation="Top"
+    transitions="FadeTransition"
+    drawerOpened="drawerOpened"
+    drawerClosed = "drawerClosed"
+    drawerOpening = "drawerOpening"
+    drawerClosing = "drawerClosing"
+    >
+        <nsDrawer:RadSideDrawer.drawerContent>
+            <StackLayout backgroundColor="white">
+                <Label text="hello" fontSize="30"/>
+                <Label text="Close Drawer" tap="" fontSize="30"
+                tap="closeDrawer"
+                />
+            </StackLayout>
+        </nsDrawer:RadSideDrawer.drawerContent>
+        <nsDrawer:RadSideDrawer.mainContent>
+            <StackLayout >
+                <Button text="toggle" tap="toggleSideDrawer" backgroundColor="#fcdddd" />
+               <Frame defaultPage="pages/page-one.xml"></Frame>
+            </StackLayout>
+        </nsDrawer:RadSideDrawer.mainContent>
+    </nsDrawer:RadSideDrawer>
+</Page>

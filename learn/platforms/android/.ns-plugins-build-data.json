@@ -1,0 +1,23 @@
+{
+	"nativescript-ui-autocomplete": {
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-autocomplete/platforms/android/include.gradle": "3056a5da388a3193051b60d6dc5febe505745e43",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-autocomplete/platforms/android/typings/autocomplete.d.ts": "93d69d2fe72e452c3a0f90d95595fb50f85384cf",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-autocomplete/platforms/android/TNSAutoComplete-release.aar": "bc8fc60dbe2499e554b56882a6af5bf4bea4504f"
+	},
+	"nativescript-ui-listview": {
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-listview/platforms/android/include.gradle": "748fea0533b6b3cab801289b88f7a01de2cb8680",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-listview/platforms/android/typings/listview.d.ts": "e5cb786b04a720aa5f9069bdc019f91a5fd2769a",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-listview/platforms/android/TNSListView-release.aar": "ae2d4294d35c708dc86710812949f1ba630f4d74"
+	},
+	"nativescript-ui-sidedrawer": {
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "014feca9bb77a2b9bb64edb4fdc8a0fbfab4abed",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "91ef64e6d1864556d27ded671283ee4a05b7c4eb"
+	},
+	"nativescript-ui-core": {
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "cce16a86c2a6f56ca7243ed8db86b004ecb0016e",
+		"/home/peter/Desktop/native-script/learn/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2"
+	},
+	"tns-core-modules-widgets": {
+		"/home/peter/Desktop/native-script/learn/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "efe67a699a507e38b3daf4e9903fc0cdc9435a86"
+	}
+}

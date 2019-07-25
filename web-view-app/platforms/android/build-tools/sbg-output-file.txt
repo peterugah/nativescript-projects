@@ -1,0 +1,1 @@
+/home/peter/Desktop/native-script/web-view-app/platforms/android/app/src/main/java

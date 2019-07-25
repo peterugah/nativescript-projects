@@ -1,0 +1,5 @@
+<Page>
+    <StackLayout>
+        <Label title="welcoem" />
+    </StackLayout>
+</Page>

@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:70-122
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:3:3-5:17
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:4:5-101
+	android:screenOrientation
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:4:63-99
+	android:name
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml:4:15-62
+uses-sdk
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+		ADDED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml
+		INJECTED from /home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/src/main/AndroidManifest.xml

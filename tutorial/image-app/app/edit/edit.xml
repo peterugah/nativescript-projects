@@ -1,0 +1,12 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="loaded" shownModally="shownModally">
+    <StackLayout width="100%">
+    <Label text="description" id="descLabel" />
+        <TextView text="{{description}}" class="textView" />
+        <GridLayout height="50" rows="*" columns="*,*,*" id="optionsDiv">
+            <!-- <Label horizontalAlignment="center" row="0" col="0" text="&#xea3e;" class="icon" tap="downloadImage" /> -->
+            <Label horizontalAlignment="center"  row="0" col="1" text="&#xe933;" class="icon" tap="update" />
+            <Label horizontalAlignment="center"  row="0" col="2" text="&#xe9ac;" class="icon" tap="deleteImage" />
+        </GridLayout>
+    </StackLayout>
+
+</Page>

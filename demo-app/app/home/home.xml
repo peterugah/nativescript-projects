@@ -1,0 +1,20 @@
+<Page actionBarHidden="true" >
+<ActionBar backgroundColor="red"/>
+    <TabView id="tabViewContainer" selectedIndex="2" class="tab">
+        <TabViewItem title="&#xe9c3;" class="icon">
+            <StackLayout>
+                <Frame defaultPage="/upload/upload"/>
+            </StackLayout>
+        </TabViewItem>
+        <TabViewItem title="&#xe91d;" class="icon">
+            <StackLayout>
+<!-- `<Frame defaultPage="web/view" /> -->
+            </StackLayout>
+        </TabViewItem>
+        <TabViewItem title="&#xe905;" class="icon">
+            <StackLayout>
+             <Frame defaultPage="/imageModule/image"/>
+            </StackLayout>
+        </TabViewItem>
+    </TabView>
+</Page>

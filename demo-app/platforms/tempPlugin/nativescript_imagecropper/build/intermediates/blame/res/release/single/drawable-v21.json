@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/peter/Desktop/native-script/demo-app/platforms/tempPlugin/nativescript_imagecropper/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/peter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c8203c0578a0cc8d09905a6c02c94ae8/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

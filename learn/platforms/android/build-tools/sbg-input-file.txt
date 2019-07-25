@@ -1,0 +1,1 @@
+/home/peter/Desktop/native-script/learn/platforms/android/app/src/main/assets/app

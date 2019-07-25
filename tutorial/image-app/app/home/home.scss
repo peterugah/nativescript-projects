@@ -1,0 +1,55 @@
+@import '../sass/variables';
+#logo{
+    width: 50;
+    height: 50;
+    margin-bottom: 10;
+}
+.loader{
+    horizontal-align:center;
+    vertical-align: center;
+    width: 50;
+    height: 50;
+}
+.date{
+    font-size: 15;
+}
+.individualImages{
+    margin-bottom: 30;
+}
+.image{
+    border-radius: 50;
+    margin: 20;
+}
+.desc{
+    font-weight: 400;
+}
+
+.animate {
+    animation-name:fade;
+    animation-duration: .3s;
+    animation-timing-function: linear;
+}
+
+@keyframes fade {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.noImages{
+    horizontal-align:center;
+  //  vertical-align: center;
+    color : lighten($black, 5);
+    margin:20;
+
+}
+#loadMore{
+   vertical-align:bottom;
+   horizontal-align:right;
+   margin:10;
+   background :$greenGrad;
+   text-transform:capitalize;
+   padding:10 20;
+   border-radius:50;
+    z-index:2;
+   color:white;
+}
